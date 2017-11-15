@@ -6,19 +6,27 @@
 
 ## 課程
 
-1. [聲母 m、f、l、h、w、s](./chapter01.md)
-2. [韻母 i、u、o、e、aa、yu、oe](./chapter02.md)
-3. [字調 1、2、3、4、5、6](./chapter03.md)
-4. [聲母 b、p、d、t、g、k](./chapter04.md)
-5. [聲母 gw、kw](./chapter05.md)
-6. [聲母 零聲母、ng、n](./chapter06.md)
-7. [聲母 z、c、j](./chapter07.md)
-8. [韻母 aam、aan、aang、aap、aat、aak](./chapter08.md)
-9. [韻母 im、in、un、yun、on、ong、oeng、eng](./chapter09.md)
-10. [韻母 ip、it、ut、yut、ot、ok、oek、ek](./chapter10.md)
-11. [韻母 ing、ung、ik、uk](./chapter11.md)
-12. [韻母 am、an、ang、ap、at、ak](./chapter12.md)
-13. [韻母 aai、aau、ai、au](./chapter13.md)
-14. [韻母 iu、ui、oi、ou、ei](./chapter14.md)
-15. [韻母 eon、eot、eoi](./chapter15.md)
-16. [韻母 m、ng](./chapter16.md)
+### 粵拼 101
+
+1. [聲母：m、f、l、h、w、s](./chapter01.md)
+2. [韻母：i、u、o、e、aa、yu、oe](./chapter02.md)
+3. [字調：1、2、3、4、5、6](./chapter03.md)
+
+### 聲母
+
+1. [b、p、d、t、g、k](./chapter04.md)
+2. [gw、kw](./chapter05.md)
+3. [零聲母、ng、n](./chapter06.md)
+4. [z、c、j](./chapter07.md)
+
+### 韻母
+
+1. [aam、aan、aang、aap、aat、aak](./chapter08.md)
+2. [im、in、un、yun、on、ong、oeng、eng](./chapter09.md)
+3. [ip、it、ut、yut、ot、ok、oek、ek](./chapter10.md)
+4. [ing、ung、ik、uk](./chapter11.md)
+5. [am、an、ang、ap、at、ak](./chapter12.md)
+6. [aai、aau、ai、au](./chapter13.md)
+7. [iu、ui、oi、ou、ei](./chapter14.md)
+8. [eon、eot、eoi](./chapter15.md)
+9. [m、ng](./chapter16.md)
